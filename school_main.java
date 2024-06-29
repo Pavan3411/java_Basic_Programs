@@ -1,4 +1,5 @@
 public class school_main {
+    // program
     public static void main(String[] args) {
         school Stud1 = new school();
         school Stud2 = new school("StudName2","Stud2RollNo");
